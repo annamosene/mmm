@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.ACTIONS_TOKEN }}  # Usa il token personalizzato
 
       - name: Set up Python
         uses: actions/setup-python@v4
