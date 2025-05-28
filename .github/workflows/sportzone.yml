@@ -13,9 +13,7 @@ jobs:
       # Clona il repository
       - name: Clona il repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Recupera la storia completa per il rebase
-          token: ${{ secrets.ACTIONS_TOKEN }}
+
 
       # Configura Python
       - name: Configura Python
