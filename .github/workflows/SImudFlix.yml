@@ -11,9 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.ACTIONS_TOKEN }}
+        uses: actions/checkout@v4
 
       - name: Install Chrome & ChromeDriver
         run: |
