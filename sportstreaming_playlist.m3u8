@@ -1,36 +1,41 @@
 #EXTM3U
-#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live1.png", Sport 24Diretta sempre attiva
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live1.png" tvg-name="Sport 24", Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+#EXTVLCOPT:http-origin=https://www.sportstreaming.net
 https://xuione.sportstreaming.net/SportStreaming/SportStreaming/2.m3u8
-#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live2.png", Formula 1Diretta sempre attiva
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live2.png" tvg-name="Formula 1", Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+#EXTVLCOPT:http-origin=https://www.sportstreaming.net
 https://xuione.sportstreaming.net/SportStreaming/SportStreaming/4.m3u8
-#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live3.png", Moto GPDiretta sempre attiva
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live3.png" tvg-name="Moto GP", Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+#EXTVLCOPT:http-origin=https://www.sportstreaming.net
 https://xuione.sportstreaming.net/SportStreaming/SportStreaming/5.m3u8
-#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live4.png", NBADiretta sempre attiva
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live4.png" tvg-name="NBA", Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+#EXTVLCOPT:http-origin=https://www.sportstreaming.net
 https://xuione.sportstreaming.net/SportStreaming/SportStreaming/9.m3u8
-#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live5.png", TennisDiretta sempre attiva
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live5.png" tvg-name="Tennis", Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+#EXTVLCOPT:http-origin=https://www.sportstreaming.net
 https://xuione.sportstreaming.net/SportStreaming/SportStreaming/8.m3u8
-#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live2.png", Cremonese SpeziaSerie B   Play Off Finale AndataGiovedì 29 Maggio ore 20:30
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live2.png" tvg-name="20:30 29/05 Cremonese-Spezia", Serie B - Play Off Finale Andata
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+#EXTVLCOPT:http-origin=https://www.sportstreaming.net
 https://xuione.sportstreaming.net/SportStreaming/SportStreaming/53.m3u8
-#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live3.png", PSG   InterChampions League   FinaleSabato 31 Maggio ore 21:00
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live3.png" tvg-name="21:00 31/05 PSG - Inter", Champions League - Finale
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+#EXTVLCOPT:http-origin=https://www.sportstreaming.net
 https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3.m3u8
-#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live4.png", Spezia   CremoneseSerie B   Play Off Finale RitornoDomenica 01 Giugno ore 20:30
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live4.png" tvg-name="20:30 01/06 Spezia - Cremonese", Serie B - Play Off Finale Ritorno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+#EXTVLCOPT:http-origin=https://www.sportstreaming.net
 https://xuione.sportstreaming.net/SportStreaming/SportStreaming/63.m3u8
-
-#EXTINF:-1 tvg-id="ADMIN" tvg-name="ADMIN" tvg-logo="https://i.postimg.cc/4ysKkc1G/photo-2025-03-28-15-49-45.png" group-title="Eventi", ADMIN
-https://static.vecteezy.com/system/resources/previews/033/861/932/mp4/gherkins-close-up-loop-free-video.mp4
